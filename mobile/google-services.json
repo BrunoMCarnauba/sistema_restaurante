@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799725300141",
+    "firebase_url": "https://restauranteapp-92925.firebaseio.com",
+    "project_id": "restauranteapp-92925",
+    "storage_bucket": "restauranteapp-92925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799725300141:android:b7984920b6381672be1924",
+        "android_client_info": {
+          "package_name": "br.com.brunomcarnauba.restauranteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799725300141-c377gfppoqrmlthe06v40mtdagnrovek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPHTZsB5LJkoETZn3QMfPHDdckwB7b9Ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799725300141-c377gfppoqrmlthe06v40mtdagnrovek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

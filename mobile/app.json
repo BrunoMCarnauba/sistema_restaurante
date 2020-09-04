@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "RestauranteAPP",
+    "slug": "restaurante-aplicativo",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f2e7e7"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3940256099942544~1458002511"
+      }
+    },
+    "android": {
+      "package": "br.com.brunomcarnauba.restauranteapp",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3940256099942544~3347511713"
+      }
+    },
+    "description": "Um aplicativo onde o cliente pode ver o cardápio do restaurante e o funcionário pode fazer pedidos para determinada mesa por meio dele. ",
+    "githubUrl": "https://github.com/BrunoMCarnauba/restaurante_app"
+  }
+}
